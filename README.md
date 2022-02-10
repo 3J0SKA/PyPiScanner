@@ -77,4 +77,11 @@ To clone and run this program, you'll need [Python3](https://www.python.org/down
 python3 pypiscanner.py -i 127.0.0.1 -p 1000 -f file_name.txt 
 ```
 
+### Usage For CTF's!
+
+```bash
+python3 pypiscanner.py -i 127.0.0.1 -c
+```
+
+* Note : The CTF functionality might miss a lots of ports on the system. This port list only contains *mostly used* ports.
 
